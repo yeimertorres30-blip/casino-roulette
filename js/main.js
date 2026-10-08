@@ -433,9 +433,9 @@
     if (isSpinning) return;
     playSound('click');
     const demo = [
-      'Ace', 'King', 'Queen', 'Jack', '10', '9', '8', '7', '6', '5',
-      '4', '3', '2', 'A♥', 'K♦', 'Q♣', 'J♠', 'Red', 'Black', 'Zero',
-      'Lucky', 'Fortune', 'Gold', 'Diamond', 'Star', 'Moon'
+'Andres Rueda','Andrés JIménez','Alvaro Andres','Brayan','Nini','Carlos Mario',
+'Carlos Said','Cris','Duvan','Exneider','Hamilton','Javier','Jhorman','Sebastian',
+'Julio','keiler','Jesús','Mary','Raul','Rick','Sofi','Thomas','Val','Yeimer','Yonder','Z'
     ];
     items.length = 0;
     demo.forEach(d => items.push(d));
